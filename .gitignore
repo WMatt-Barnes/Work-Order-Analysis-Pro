@@ -132,6 +132,21 @@ ai_classification_cache.json
 !failure_mode_dictionary_.xlsx
 !requirements.txt
 
+# Test data files (keep locally but don't commit)
+*TEST*.xlsx
+*TEST*.xls
+*TEST*.csv
+*SHORTTEST*.xlsx
+*SHORTTEST*.xls
+*SHORTTEST*.csv
+
+# Executables and build artifacts
+*.exe
+dist/
+build/
+*.spec
+release/
+
 # Test outputs
 tests/Test Outputs/
 
