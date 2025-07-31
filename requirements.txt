@@ -1,0 +1,27 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+openpyxl>=3.0.0
+
+# AI and NLP dependencies
+nltk>=3.8
+rapidfuzz>=3.0.0
+sentence-transformers>=2.2.0
+spacy>=3.5.0
+scikit-learn>=1.1.0
+
+# Statistical analysis
+scipy>=1.9.0
+
+# GUI
+# tkinter is built into Python and doesn't need to be installed via pip
+
+# Optional: For enhanced AI capabilities
+# torch>=1.12.0  # Uncomment if using PyTorch-based models
+# transformers>=4.20.0  # Uncomment if using Hugging Face models
+
+# Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0 
