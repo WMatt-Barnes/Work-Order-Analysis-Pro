@@ -1,4 +1,4 @@
-# WOAPro - Work Order Analysis Professional
+Work Order Analysis Pro 1.1
 
 A comprehensive reliability engineering software for analyzing maintenance work order data using advanced statistical methods.
 
