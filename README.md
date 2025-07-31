@@ -25,8 +25,8 @@ WOAPro transforms raw maintenance work order data into actionable reliability in
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro-V1.1.git
-   cd Work-Order-Analysis-Pro-V1.1
+   git clone https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro.git
+   cd Work-Order-Analysis-Pro
    ```
 
 2. **Create virtual environment:**
@@ -47,9 +47,9 @@ WOAPro transforms raw maintenance work order data into actionable reliability in
 
 ### Alternative: Download Release
 
-1. Go to [Releases](https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro-V1.1/releases)
-2. Download the latest `WOAPro-v1.1.zip`
-3. Extract and run `main.py`
+1. Go to [Releases](https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro/releases)
+2. Download the latest `WOAPro-v1.1-Windows.zip`
+3. Extract and run `WOAPro.exe`
 
 ## Basic Navigation
 
@@ -113,7 +113,7 @@ WOAPro implements industry-standard reliability engineering methods:
 
 ## Support
 
-- **Issues**: Report bugs and feature requests via [GitHub Issues](https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro-V1.1/issues)
+- **Issues**: Report bugs and feature requests via [GitHub Issues](https://github.com/WMatt-Barnes/Work-Order-Analysis-Pro/issues)
 - **Documentation**: See the `docs/` folder for detailed guides
 - **Examples**: Sample data files included in the `data/` folder
 
